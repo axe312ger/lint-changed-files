@@ -1,6 +1,6 @@
 {
   "name": "lint-changed-files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lint only files which changed since your last push via eslint",
   "main": "index.js",
   "bin": {

@@ -17,8 +17,6 @@ if (gitResult.error) {
   throw gitResult.error
 }
 
-console.log(argv)
-
 // Generate list of files to lint
 const gitDiffFiles = gitResult.stdout.toString()
   // Create array of changed files
