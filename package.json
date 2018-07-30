@@ -1,0 +1,21 @@
+{
+  "name": "lint-changed-files",
+  "version": "0.0.1",
+  "description": "Lint only files which changed since your last push via eslint",
+  "main": "index.js",
+  "bin": {
+    "lint-changed-files": "./index.js"
+  },
+  "author": "Benedikt Rötsch <info@benedikt-roetsch.de>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axe312ger/lint-changed-files.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
