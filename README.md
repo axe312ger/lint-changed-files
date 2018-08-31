@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED ⚠️
+
+Use: https://www.npmjs.com/package/lint-staged
+
 # Lint Changed Files
 
 ![npm](https://img.shields.io/npm/v/lint-changed-files.svg)
